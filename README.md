@@ -1,7 +1,7 @@
-### <div align="center">I'm Audee Velasco, A Highly self-motivated and goal-oriented developer 👨‍💻 committed to pursuing a long-term career in product and engineering management. I offer 10+ years of experience in application development and the ability to follow through with projects from inception to completion. With a proven track record of multiple launched apps. At the same time, I am honing my leadership and people skills.</div>  
+### <div align="center">Howdy! I'm Audee Velasco, A Highly self-motivated and goal-oriented developer 👨‍💻 committed to pursuing a long-term career in product and engineering management. I offer 10+ years of experience in application development and the ability to follow through with projects from inception to completion. With a proven track record of multiple launched apps. At the same time, I am honing my leadership and people skills.</div>  
   
 
-- 🔭 I’m currently working on [RealtorRescue](https://realtorrescue.app) - An app that I built from the ground up.   
+- 🔭 I’m currently buildins Shopify Apps at [StackdApps.io](https://stackdapps.io).
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
